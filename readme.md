@@ -15,7 +15,7 @@ This repository contains a fine-tuned language model designed to simulate a sing
 ---
 
 ## Repository Structure
----
+```
 
 ├── data/ # Raw and preprocessed datasets (JSONL)
 ├── scripts/ # Training and preprocessing scripts
@@ -24,7 +24,7 @@ This repository contains a fine-tuned language model designed to simulate a sing
 ├── utils/ # utility functions
 └── README.md
 
----
+```
 ## Dataset
 
 - Format: JSONL with `prompt` and `response` fields.  
@@ -34,3 +34,4 @@ This repository contains a fine-tuned language model designed to simulate a sing
     "prompt":"SAM: Adra! You run a fantastic establishment.",
     "response":"DM: “That's right I do!”"
 }
+```
