@@ -16,12 +16,14 @@ This repository contains a fine-tuned language model designed to simulate a sing
 
 ## Repository Structure
 ---
+
 ├── data/ # Raw and preprocessed datasets (JSONL)
 ├── scripts/ # Training and preprocessing scripts
 ├── model/ # Fine-tuned model weights and tokenizer
 ├── inference/ # Chat function and CLI game loop
 ├── utils/ # utility functions
 └── README.md
+
 ---
 ## Dataset
 
