@@ -35,3 +35,18 @@ This repository contains a fine-tuned language model designed to simulate a sing
     "response":"DM: “That's right I do!”"
 }
 ```
+## Credits
+
+- **Critical Role / Matthew Mercer and Cast**  
+  All characters, storylines, and original content belong to *Critical Role Productions, LLC*. This project is **not officially affiliated** or endorsed.
+
+- **Dataset Sources**  
+  Derived from publicly available Critical Role transcripts.
+
+- **Libraries & Tools**  
+  - [Vue.js](https://vuejs.org/) for frontend  
+  - [Pinia](https://pinia.vuejs.org/) for state management  
+  - [Hugging Face Transformers](https://huggingface.co/docs/transformers/index) for model training and inference  
+  - [LoRA / PEFT](https://github.com/huggingface/peft) for fine-tuning  
+
+> ⚠️ This project is for **personal, educational, or research purposes only**.
