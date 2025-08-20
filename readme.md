@@ -41,7 +41,7 @@ This repository contains a fine-tuned language model designed to simulate a sing
   All characters, storylines, and original content belong to *Critical Role Productions, LLC*. This project is **not officially affiliated** or endorsed.
 
 - **Dataset Sources**  
-  Derived from publicly available Critical Role transcripts.
+  Derived from publicly available Critical Role ![transcripts](https://criticalrole.fandom.com/wiki/Category:Transcripts).
 
 - **Libraries & Tools**  
   - [Vue.js](https://vuejs.org/) for frontend  
